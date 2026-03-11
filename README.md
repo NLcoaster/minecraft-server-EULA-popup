@@ -1,4 +1,4 @@
-# EULA Popup Addon
+# EULA Popup Addon (beta)
 is a lightweight Minecraft Bedrock behavior pack that displays a Terms of Service in a popup to players the first time they join your server or world.  
 Players must actively accept the rules before playing.  
 if they decline, they are kicked and can rejoin at any time to accept.  
